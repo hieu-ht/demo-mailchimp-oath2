@@ -14,7 +14,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "cookie-session": "^1.4.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "next": "^9.3.2",
     "qs": "^6.9.1",
     "react": "^16.12.0",
